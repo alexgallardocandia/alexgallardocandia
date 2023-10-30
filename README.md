@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alexander Josue Gallardo Candia</h1>
 <h3 align="center">The words that best describe me are: Self-taught, hard-working, reliable, friendly.</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexgallardocandia&label=Profile%20views&color=0e75b6&style=flat" alt="alexgallardocandia" /> </p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexgallardocandia" alt="alexgallardocandia" /></a> </p>
 
 - 🔭 I’m currently working on [GRUPO EPEM Paraguay ](https://www.grupoepem.com.py/)
 - 📫 How to reach me **agallardo2320@gmail.com**
