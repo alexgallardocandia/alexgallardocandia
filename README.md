@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexgallardocandia" alt="alexgallardocandia" /></a> </p>
 
-- 🔭 I’m currently working on [GRUPO EPEM Paraguay ](https://www.grupoepem.com.py/)
+- 🔭 I’m currently working on [BIX S.A. ](https://www.bixparaguay.com/)
 - 📫 How to reach me **agallardo2320@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
